@@ -1,5 +1,5 @@
 ---
- -name: ansible test 2
+ -name: ansible test orgin
   hosts: first
   become: root
   become_method: sudo
